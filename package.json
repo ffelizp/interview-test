@@ -1,0 +1,27 @@
+{
+  "name": "edam-interview-test",
+  "version": "1.0.0",
+  "description": "Choose whatever language you're most comfortable with to solve these problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "node scripts/task1.js",
+    "task2": "node scripts/task2.js",
+    "task3": "node scripts/task3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffelizp/interview-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffelizp/interview-test/issues"
+  },
+  "homepage": "https://github.com/ffelizp/interview-test#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security"
+  }
+}
