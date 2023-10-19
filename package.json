@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ffelizp/interview-test/issues"
   },
-  "homepage": "https://github.com/ffelizp/interview-test#readme"
+  "homepage": "https://github.com/ffelizp/interview-test#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security"
+  }
 }
